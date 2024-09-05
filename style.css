@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+}
+ nav a{
+    color: darkmagenta;
+    text-decoration: underline;
+    font-size: large;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ div img{
+    height: 600px;
+    text-align: center;
+    border-color:rgb(139, 0, 0);
+    border-style: groove;
+    border-width: 30px;
+
+ }
+ div2 img{
+    height: 800px;
+    text-align: center;
+    border-color:rgb(139, 0, 0);
+    border-style: groove;
+    border-width: 30px;
+ }
+ p{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    color: darkred;
+ }
+ h1{
+    font-style: oblique;
+    color: darkred;
+ }
+
+small{
+    color: darkred;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+}
